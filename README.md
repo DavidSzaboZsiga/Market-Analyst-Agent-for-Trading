@@ -17,8 +17,11 @@ Built with **Python**, **LangGraph**, **OpenAI GPT-4o**, and **Tavily AI Search*
 The agent follows a **State Graph** workflow:
 
 Start --> Quant_Agent[📊 Quant Agent]
+
 Quant_Agent -->|Passes Price Data| News_Agent[📰 News Hunter]
+
 News_Agent -->|Passes News & Sentiment| Manager[💼 Portfolio Manager]
+
 Manager -->|Generates Report| End
 
 ## 📋 Prerequisites
