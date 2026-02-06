@@ -36,7 +36,7 @@ Manager -->|Generates Report| End
 
 **1. Clone the repository (or download the files):**
 ```
-git clone [https://github.com/yourusername/market-agent.git](https://github.com/yourusername/market-agent.git)
+git clone https://github.com/DavidSzaboZsiga/Market-Analyst-Agent-for-Trading.git
 cd market-agent
 ```
 
